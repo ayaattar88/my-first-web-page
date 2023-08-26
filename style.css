@@ -1,0 +1,27 @@
+body {
+    background-color: cadetblue;
+    font-family: roboto, Arial, Helvetica, sans-serif;
+}
+.ul >li {
+    display: inline;
+    font-size: larger;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    }
+form :hover {
+    color: green;
+    background-color: crimson;
+}
+.link {
+    background-color: black;
+    color: green;
+}
+.link a:hover {
+    background-color: blueviolet;
+}
+.link a:active {
+    background-color: white;
+}
+.link a:visited {
+    color: red;
+}
